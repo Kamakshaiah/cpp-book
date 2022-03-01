@@ -1,0 +1,197 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{About the Author}}{3}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-2000}{QQ2-1-2}{Contents}}{7}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-3000}{QQ2-1-3}{Preface}}{13}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-40001}{QQ2-1-4}{Introduction}}{15}\relax 
+\doTocEntry\tocsection{1.1}{\csname a:TocLink\endcsname{1}{x1-50001.1}{QQ2-1-5}{C vs. C++}}{17}\relax 
+\doTocEntry\tocsubsection{1.1.1}{\csname a:TocLink\endcsname{1}{x1-60001.1.1}{QQ2-1-6}{What is C?}}{17}\relax 
+\doTocEntry\tocsubsection{1.1.2}{\csname a:TocLink\endcsname{1}{x1-70001.1.2}{QQ2-1-7}{What is C++?}}{18}\relax 
+\doTocEntry\tocsection{1.2}{\csname a:TocLink\endcsname{1}{x1-80001.2}{QQ2-1-8}{C++ history}}{22}\relax 
+\doTocEntry\toclot{1.1}{\csname a:TocLink\endcsname{1}{x1-80011}{}{\ignorespaces Languages that were developed before C++ language}}{table}\relax 
+\doTocEntry\tocsection{1.3}{\csname a:TocLink\endcsname{1}{x1-90001.3}{QQ2-1-10}{C++ Features}}{25}\relax 
+\doTocEntry\tocsection{1.4}{\csname a:TocLink\endcsname{1}{x1-100001.4}{QQ2-1-11}{Installation}}{27}\relax 
+\doTocEntry\tocsubsection{1.4.1}{\csname a:TocLink\endcsname{1}{x1-110001.4.1}{QQ2-1-12}{Eclipse for C++}}{28}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-120001.4.1}{QQ2-1-13}{Install MinGW GCC or Cygwin GCC}}{29}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-130001.4.1}{QQ2-1-14}{Install Eclipse C/C++ Development Tool (CDT)}}{29}\relax 
+\doTocEntry\tocsubsection{1.4.2}{\csname a:TocLink\endcsname{1}{x1-140001.4.2}{QQ2-1-15}{Creating C++ project}}{30}\relax 
+\doTocEntry\tocsection{1.5}{\csname a:TocLink\endcsname{1}{x1-150001.5}{QQ2-1-16}{C++ Program from terminal}}{31}\relax 
+\doTocEntry\tocsubsection{1.5.1}{\csname a:TocLink\endcsname{1}{x1-160001.5.1}{QQ2-1-17}{Object code}}{38}\relax 
+\doTocEntry\tocsection{1.6}{\csname a:TocLink\endcsname{1}{x1-170001.6}{QQ2-1-18}{Eclipse for C++ development}}{41}\relax 
+\doTocEntry\tocsection{1.7}{\csname a:TocLink\endcsname{1}{x1-180001.7}{QQ2-1-19}{Basic Input/Output}}{43}\relax 
+\doTocEntry\tocsubsection{1.7.1}{\csname a:TocLink\endcsname{1}{x1-190001.7.1}{QQ2-1-20}{I/O Library Header Files}}{43}\relax 
+\doTocEntry\tocsubsection{1.7.2}{\csname a:TocLink\endcsname{1}{x1-200001.7.2}{QQ2-1-21}{Standard output stream (\texttt  {cout})}}{46}\relax 
+\doTocEntry\tocsubsection{1.7.3}{\csname a:TocLink\endcsname{1}{x1-210001.7.3}{QQ2-1-22}{Standard input stream (\texttt  {cin})}}{48}\relax 
+\doTocEntry\tocsubsection{1.7.4}{\csname a:TocLink\endcsname{1}{x1-220001.7.4}{QQ2-1-23}{Standard end line (\texttt  {endl})}}{50}\relax 
+\doTocEntry\tocsection{1.8}{\csname a:TocLink\endcsname{1}{x1-230001.8}{QQ2-1-24}{Identifiers and Keywords}}{52}\relax 
+\doTocEntry\tocsubsection{1.8.1}{\csname a:TocLink\endcsname{1}{x1-240001.8.1}{QQ2-1-25}{Identifiers}}{52}\relax 
+\doTocEntry\tocsubsection{1.8.2}{\csname a:TocLink\endcsname{1}{x1-250001.8.2}{QQ2-1-26}{Naming rules}}{53}\relax 
+\doTocEntry\tocsubsection{1.8.3}{\csname a:TocLink\endcsname{1}{x1-260001.8.3}{QQ2-1-27}{Keywords}}{56}\relax 
+\doTocEntry\toclot{1.2}{\csname a:TocLink\endcsname{1}{x1-260012}{}{\ignorespaces Keywords in C++}}{table}\relax 
+\doTocEntry\toclot{1.3}{\csname a:TocLink\endcsname{1}{x1-260023}{}{\ignorespaces Differences between identifiers and keywords.}}{table}\relax 
+\doTocEntry\tocsection{1.9}{\csname a:TocLink\endcsname{1}{x1-270001.9}{QQ2-1-30}{Data Types}}{62}\relax 
+\doTocEntry\toclof{1.1}{\csname a:TocLink\endcsname{1}{x1-270011}{}{\ignorespaces Data types in C}}{figure}\relax 
+\doTocEntry\tocsubsection{1.9.1}{\csname a:TocLink\endcsname{1}{x1-280001.9.1}{QQ2-1-32}{Basic Data Types}}{67}\relax 
+\doTocEntry\toclot{1.4}{\csname a:TocLink\endcsname{1}{x1-280154}{}{\ignorespaces Basic data types}}{table}\relax 
+\doTocEntry\tocsubsection{1.9.2}{\csname a:TocLink\endcsname{1}{x1-290001.9.2}{QQ2-1-34}{Datatype Modifiers}}{72}\relax 
+\doTocEntry\toclof{1.2}{\csname a:TocLink\endcsname{1}{x1-290012}{}{\ignorespaces Modifiers}}{figure}\relax 
+\doTocEntry\tocsection{1.10}{\csname a:TocLink\endcsname{1}{x1-300001.10}{QQ2-1-36}{C++ Variables, Literals and Constants}}{76}\relax 
+\doTocEntry\tocsubsection{1.10.1}{\csname a:TocLink\endcsname{1}{x1-310001.10.1}{QQ2-1-37}{C++ Variables}}{76}\relax 
+\doTocEntry\tocsubsection{1.10.2}{\csname a:TocLink\endcsname{1}{x1-320001.10.2}{QQ2-1-38}{Rules for naming a variable}}{78}\relax 
+\doTocEntry\tocsubsection{1.10.3}{\csname a:TocLink\endcsname{1}{x1-330001.10.3}{QQ2-1-39}{C++ Literals}}{79}\relax 
+\doTocEntry\toclot{1.5}{\csname a:TocLink\endcsname{1}{x1-330095}{}{\ignorespaces Escape characters}}{table}\relax 
+\doTocEntry\toclot{1.6}{\csname a:TocLink\endcsname{1}{x1-330126}{}{\ignorespaces String literals}}{table}\relax 
+\doTocEntry\tocsubsection{1.10.4}{\csname a:TocLink\endcsname{1}{x1-340001.10.4}{QQ2-1-42}{C++ Constants}}{82}\relax 
+\doTocEntry\tocsection{1.11}{\csname a:TocLink\endcsname{1}{x1-350001.11}{QQ2-1-43}{Operators and Expressions}}{83}\relax 
+\doTocEntry\tocsubsection{1.11.1}{\csname a:TocLink\endcsname{1}{x1-360001.11.1}{QQ2-1-44}{Operators}}{83}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-370001.11.1}{QQ2-1-45}{Arithmetic Operators}}{85}\relax 
+\doTocEntry\toclot{1.7}{\csname a:TocLink\endcsname{1}{x1-370017}{}{}}{table}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-380001.11.1}{QQ2-1-47}{Relational Operators}}{88}\relax 
+\doTocEntry\toclot{1.8}{\csname a:TocLink\endcsname{1}{x1-380018}{}{\ignorespaces Relational operators}}{table}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-390001.11.1}{QQ2-1-49}{Logical operators}}{91}\relax 
+\doTocEntry\toclot{1.9}{\csname a:TocLink\endcsname{1}{x1-390019}{}{\ignorespaces Logical operators}}{table}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-400001.11.1}{QQ2-1-51}{Bitwise Operators}}{94}\relax 
+\doTocEntry\toclot{1.10}{\csname a:TocLink\endcsname{1}{x1-4000110}{}{\ignorespaces Bitwise operators}}{table}\relax 
+\doTocEntry\toclot{1.11}{\csname a:TocLink\endcsname{1}{x1-4000211}{}{\ignorespaces Bitwise operators}}{table}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-410001.11.1}{QQ2-1-54}{Assignment Operators}}{100}\relax 
+\doTocEntry\toclot{1.12}{\csname a:TocLink\endcsname{1}{x1-4100112}{}{\ignorespaces Assignment operator}}{table}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-420001.11.1}{QQ2-1-56}{Misc Operators}}{103}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-430001.11.1}{QQ2-1-57}{Operators Precedence in C++}}{104}\relax 
+\doTocEntry\toclot{1.13}{\csname a:TocLink\endcsname{1}{x1-4300113}{}{\ignorespaces Operator precedence}}{table}\relax 
+\doTocEntry\tocsubsection{1.11.2}{\csname a:TocLink\endcsname{1}{x1-440001.11.2}{QQ2-1-59}{C++ Expression}}{108}\relax 
+\doTocEntry\toclof{1.3}{\csname a:TocLink\endcsname{1}{x1-440013}{}{}}{figure}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-450001.11.2}{QQ2-1-61}{Constant expressions}}{112}\relax 
+\doTocEntry\toclot{1.14}{\csname a:TocLink\endcsname{1}{x1-4501514}{}{\ignorespaces Expressions }}{table}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-460001.11.2}{QQ2-1-63}{Integral Expressions}}{116}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-470001.11.2}{QQ2-1-64}{Float Expressions}}{117}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-480001.11.2}{QQ2-1-65}{Pointer Expressions}}{118}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-490001.11.2}{QQ2-1-66}{Relational Expressions}}{119}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-500001.11.2}{QQ2-1-67}{Logical Expressions}}{121}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-510001.11.2}{QQ2-1-68}{Bitwise Expressions}}{121}\relax 
+\doTocEntry\toclof{1.4}{\csname a:TocLink\endcsname{1}{x1-510034}{}{\ignorespaces Bitwise shift}}{figure}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-520001.11.2}{QQ2-1-70}{Special Assignment Expressions}}{126}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-530001.11.2}{QQ2-1-71}{Embedded Assignment Expression}}{128}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-540001.11.2}{QQ2-1-72}{Compound Assignment}}{128}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-550002}{QQ2-1-73}{Functional programming}}{131}\relax 
+\doTocEntry\tocsection{2.1}{\csname a:TocLink\endcsname{1}{x1-560002.1}{QQ2-1-74}{Conditional statements}}{131}\relax 
+\doTocEntry\tocsubsection{2.1.1}{\csname a:TocLink\endcsname{1}{x1-570002.1.1}{QQ2-1-75}{C++ IF Statement}}{131}\relax 
+\doTocEntry\tocsubsection{2.1.2}{\csname a:TocLink\endcsname{1}{x1-580002.1.2}{QQ2-1-76}{C++ IF-else Statement}}{132}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-590002.1.2}{QQ2-1-77}{C++ If-else Example: with input from user}}{133}\relax 
+\doTocEntry\tocsubsection{2.1.3}{\csname a:TocLink\endcsname{1}{x1-600002.1.3}{QQ2-1-78}{C++ IF-else-if ladder Statement}}{133}\relax 
+\doTocEntry\tocsection{2.2}{\csname a:TocLink\endcsname{1}{x1-610002.2}{QQ2-1-79}{C++ Switch}}{134}\relax 
+\doTocEntry\tocsection{2.3}{\csname a:TocLink\endcsname{1}{x1-620002.3}{QQ2-1-80}{C++ For Loop}}{135}\relax 
+\doTocEntry\tocsubsection{2.3.1}{\csname a:TocLink\endcsname{1}{x1-630002.3.1}{QQ2-1-81}{C++ Nested For Loop}}{136}\relax 
+\doTocEntry\tocsubsection{2.3.2}{\csname a:TocLink\endcsname{1}{x1-640002.3.2}{QQ2-1-82}{C++ Infinite For Loop}}{137}\relax 
+\doTocEntry\tocsection{2.4}{\csname a:TocLink\endcsname{1}{x1-650002.4}{QQ2-1-83}{C++ While loop}}{137}\relax 
+\doTocEntry\tocsubsection{2.4.1}{\csname a:TocLink\endcsname{1}{x1-660002.4.1}{QQ2-1-84}{C++ Nested While Loop Example}}{138}\relax 
+\doTocEntry\tocsubsection{2.4.2}{\csname a:TocLink\endcsname{1}{x1-670002.4.2}{QQ2-1-85}{C++ Infinitive While Loop}}{139}\relax 
+\doTocEntry\tocsubsection{2.4.3}{\csname a:TocLink\endcsname{1}{x1-680002.4.3}{QQ2-1-86}{C++ Do-While Loop}}{139}\relax 
+\doTocEntry\tocsubsection{2.4.4}{\csname a:TocLink\endcsname{1}{x1-690002.4.4}{QQ2-1-87}{C++ Nested do-while Loop}}{140}\relax 
+\doTocEntry\tocsubsection{2.4.5}{\csname a:TocLink\endcsname{1}{x1-700002.4.5}{QQ2-1-88}{C++ Infinitive do-while Loop}}{141}\relax 
+\doTocEntry\tocsection{2.5}{\csname a:TocLink\endcsname{1}{x1-710002.5}{QQ2-1-89}{C++ Break \& Continue Statement}}{141}\relax 
+\doTocEntry\tocsubsection{2.5.1}{\csname a:TocLink\endcsname{1}{x1-720002.5.1}{QQ2-1-90}{C++ Break Statement with Inner Loop}}{142}\relax 
+\doTocEntry\tocsubsection{2.5.2}{\csname a:TocLink\endcsname{1}{x1-730002.5.2}{QQ2-1-91}{C++ Continue Statement}}{143}\relax 
+\doTocEntry\tocsubsection{2.5.3}{\csname a:TocLink\endcsname{1}{x1-740002.5.3}{QQ2-1-92}{C++ Continue Statement with Inner Loop}}{144}\relax 
+\doTocEntry\tocsubsection{2.5.4}{\csname a:TocLink\endcsname{1}{x1-750002.5.4}{QQ2-1-93}{C++ Goto Statement}}{144}\relax 
+\doTocEntry\tocsection{2.6}{\csname a:TocLink\endcsname{1}{x1-760002.6}{QQ2-1-94}{Arrays}}{145}\relax 
+\doTocEntry\toclof{2.1}{\csname a:TocLink\endcsname{1}{x1-760011}{}{\ignorespaces Arrays in C++}}{figure}\relax 
+\doTocEntry\tocsubsection{2.6.1}{\csname a:TocLink\endcsname{1}{x1-770002.6.1}{QQ2-1-96}{Advantages of C++ Array}}{148}\relax 
+\doTocEntry\tocsubsection{2.6.2}{\csname a:TocLink\endcsname{1}{x1-780002.6.2}{QQ2-1-97}{C++ Array Types}}{149}\relax 
+\doTocEntry\tocsubsection{2.6.3}{\csname a:TocLink\endcsname{1}{x1-790002.6.3}{QQ2-1-98}{One Dimensional Array}}{149}\relax 
+\doTocEntry\tocsection{2.7}{\csname a:TocLink\endcsname{1}{x1-800002.7}{QQ2-1-99}{Multidimensional arrays}}{149}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-810002.7}{QQ2-1-100}{Declaration and initialization at same time}}{150}\relax 
+\doTocEntry\tocsection{2.8}{\csname a:TocLink\endcsname{1}{x1-820002.8}{QQ2-1-101}{Functions in C/C++}}{151}\relax 
+\doTocEntry\tocsubsection{2.8.1}{\csname a:TocLink\endcsname{1}{x1-830002.8.1}{QQ2-1-102}{Why do we need functions?}}{152}\relax 
+\doTocEntry\tocsubsection{2.8.2}{\csname a:TocLink\endcsname{1}{x1-840002.8.2}{QQ2-1-103}{Function Declaration}}{153}\relax 
+\doTocEntry\tocsubsection{2.8.3}{\csname a:TocLink\endcsname{1}{x1-850002.8.3}{QQ2-1-104}{Return From Void Functions}}{153}\relax 
+\doTocEntry\tocsubsection{2.8.4}{\csname a:TocLink\endcsname{1}{x1-860002.8.4}{QQ2-1-105}{Parameter Passing to functions}}{155}\relax 
+\doTocEntry\tocsection{2.9}{\csname a:TocLink\endcsname{1}{x1-870002.9}{QQ2-1-106}{Pointers}}{157}\relax 
+\doTocEntry\toclof{2.2}{\csname a:TocLink\endcsname{1}{x1-870012}{}{\ignorespaces Pointers}}{figure}\relax 
+\doTocEntry\tocsubsection{2.9.1}{\csname a:TocLink\endcsname{1}{x1-880002.9.1}{QQ2-1-108}{Advantage of pointer}}{160}\relax 
+\doTocEntry\tocsubsection{2.9.2}{\csname a:TocLink\endcsname{1}{x1-890002.9.2}{QQ2-1-109}{Usage of pointer}}{161}\relax 
+\doTocEntry\toclof{2.3}{\csname a:TocLink\endcsname{1}{x1-890073}{}{\ignorespaces Declaring pointers}}{figure}\relax 
+\doTocEntry\tocsubsection{2.9.3}{\csname a:TocLink\endcsname{1}{x1-900002.9.3}{QQ2-1-111}{Symbols used in pointer}}{164}\relax 
+\doTocEntry\toclot{2.1}{\csname a:TocLink\endcsname{1}{x1-900011}{}{\ignorespaces Symbols used for pointers}}{table}\relax 
+\doTocEntry\tocsubsection{2.9.4}{\csname a:TocLink\endcsname{1}{x1-910002.9.4}{QQ2-1-113}{Declaring a pointer}}{167}\relax 
+\doTocEntry\tocsubsection{2.9.5}{\csname a:TocLink\endcsname{1}{x1-920002.9.5}{QQ2-1-114}{Pointer Example}}{168}\relax 
+\doTocEntry\tocsubsection{2.9.6}{\csname a:TocLink\endcsname{1}{x1-930002.9.6}{QQ2-1-115}{Pointer Expressions and Pointer Arithmetic}}{170}\relax 
+\doTocEntry\tocsubsection{2.9.7}{\csname a:TocLink\endcsname{1}{x1-940002.9.7}{QQ2-1-116}{References and Pointers}}{172}\relax 
+\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{1}{x1-950003}{QQ2-1-117}{C++ OOPs Concepts}}{175}\relax 
+\doTocEntry\tocsubsection{3.0.1}{\csname a:TocLink\endcsname{1}{x1-960003.0.1}{QQ2-1-118}{OOPs (Object Oriented Programming System)}}{175}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-970003.0.1}{QQ2-1-119}{Object}}{176}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-980003.0.1}{QQ2-1-120}{Class}}{176}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-990003.0.1}{QQ2-1-121}{Inheritance}}{176}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1000003.0.1}{QQ2-1-122}{Polymorphism}}{177}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1010003.0.1}{QQ2-1-123}{Abstraction}}{177}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1020003.0.1}{QQ2-1-124}{Encapsulation}}{177}\relax 
+\doTocEntry\tocsubsection{3.0.2}{\csname a:TocLink\endcsname{1}{x1-1030003.0.2}{QQ2-1-125}{Advantage of OOPs over Procedure-oriented programming language}}{177}\relax 
+\doTocEntry\tocsection{3.1}{\csname a:TocLink\endcsname{1}{x1-1040003.1}{QQ2-1-126}{C++ Object and Class}}{178}\relax 
+\doTocEntry\tocsubsection{3.1.1}{\csname a:TocLink\endcsname{1}{x1-1050003.1.1}{QQ2-1-127}{C++ Class}}{179}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1060003.1.1}{QQ2-1-128}{C++ Object and Class Example}}{179}\relax 
+\doTocEntry\tocsubsection{3.1.2}{\csname a:TocLink\endcsname{1}{x1-1070003.1.2}{QQ2-1-129}{C++ Class Example: Initialize and Display data through method}}{181}\relax 
+\doTocEntry\tocsubsection{3.1.3}{\csname a:TocLink\endcsname{1}{x1-1080003.1.3}{QQ2-1-130}{C++ Class Example: Store and Display Employee Information}}{182}\relax 
+\doTocEntry\tocsection{3.2}{\csname a:TocLink\endcsname{1}{x1-1090003.2}{QQ2-1-131}{C++ Constructor}}{183}\relax 
+\doTocEntry\tocsubsection{3.2.1}{\csname a:TocLink\endcsname{1}{x1-1100003.2.1}{QQ2-1-132}{C++ Default Constructor}}{184}\relax 
+\doTocEntry\tocsubsection{3.2.2}{\csname a:TocLink\endcsname{1}{x1-1110003.2.2}{QQ2-1-133}{C++ Parameterized Constructor}}{185}\relax 
+\doTocEntry\tocsection{3.3}{\csname a:TocLink\endcsname{1}{x1-1120003.3}{QQ2-1-134}{C++ Destructor}}{186}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1130003.3}{QQ2-1-135}{C++ Constructor and Destructor Example}}{186}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1140003.3}{QQ2-1-136}{Destructor example: string operations}}{187}\relax 
+\doTocEntry\tocsection{3.4}{\csname a:TocLink\endcsname{1}{x1-1150003.4}{QQ2-1-137}{C++ this Pointer}}{187}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1160003.4}{QQ2-1-138}{C++ this Pointer Example}}{188}\relax 
+\doTocEntry\tocsection{3.5}{\csname a:TocLink\endcsname{1}{x1-1170003.5}{QQ2-1-139}{C++ static}}{189}\relax 
+\doTocEntry\tocsubsection{3.5.1}{\csname a:TocLink\endcsname{1}{x1-1180003.5.1}{QQ2-1-140}{C++ Static Field}}{189}\relax 
+\doTocEntry\tocsection{3.6}{\csname a:TocLink\endcsname{1}{x1-1190003.6}{QQ2-1-141}{C++ Inheritance}}{192}\relax 
+\doTocEntry\tocsubsection{3.6.1}{\csname a:TocLink\endcsname{1}{x1-1200003.6.1}{QQ2-1-142}{Types Of Inheritance}}{192}\relax 
+\doTocEntry\toclof{3.1}{\csname a:TocLink\endcsname{1}{x1-1200111}{}{\ignorespaces Types of inheritance in C++}}{figure}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1210003.6.1}{QQ2-1-144}{Derived Classes}}{196}\relax 
+\doTocEntry\tocsubsection{3.6.2}{\csname a:TocLink\endcsname{1}{x1-1220003.6.2}{QQ2-1-145}{C++ Single Inheritance}}{197}\relax 
+\doTocEntry\toclof{3.2}{\csname a:TocLink\endcsname{1}{x1-1220012}{}{\ignorespaces Single inheritance}}{figure}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1230003.6.2}{QQ2-1-147}{C++ Single Level Inheritance Example: Inheriting Fields}}{200}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1240003.6.2}{QQ2-1-148}{C++ Single Level Inheritance Example: Inheriting Methods}}{201}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1250003.6.2}{QQ2-1-149}{How to make a Private Member Inheritable}}{203}\relax 
+\doTocEntry\toclof{3.3}{\csname a:TocLink\endcsname{1}{x1-1250013}{}{\ignorespaces Visibiity modes}}{figure}\relax 
+\doTocEntry\toclot{3.1}{\csname a:TocLink\endcsname{1}{x1-1250081}{}{\ignorespaces Visibility of Inherited Members}}{table}\relax 
+\doTocEntry\tocsubsection{3.6.3}{\csname a:TocLink\endcsname{1}{x1-1260003.6.3}{QQ2-1-152}{C++ Multilevel Inheritance}}{209}\relax 
+\doTocEntry\toclof{3.4}{\csname a:TocLink\endcsname{1}{x1-1260014}{}{\ignorespaces Multilevel inheritance}}{figure}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1270003.6.3}{QQ2-1-154}{C++ Multi Level Inheritance Example}}{212}\relax 
+\doTocEntry\toclof{3.5}{\csname a:TocLink\endcsname{1}{x1-1270305}{}{\ignorespaces Multiple inheritance}}{figure}\relax 
+\doTocEntry\tocsubsection{3.6.4}{\csname a:TocLink\endcsname{1}{x1-1280003.6.4}{QQ2-1-156}{Ambiquity Resolution in Inheritance}}{217}\relax 
+\doTocEntry\tocsubsection{3.6.5}{\csname a:TocLink\endcsname{1}{x1-1290003.6.5}{QQ2-1-157}{C++ Hybrid Inheritance}}{219}\relax 
+\doTocEntry\toclof{3.6}{\csname a:TocLink\endcsname{1}{x1-1290016}{}{\ignorespaces Hybrid inheritance}}{figure}\relax 
+\doTocEntry\tocsubsection{3.6.6}{\csname a:TocLink\endcsname{1}{x1-1300003.6.6}{QQ2-1-159}{C++ Hierarchical Inheritance}}{223}\relax 
+\doTocEntry\toclof{3.7}{\csname a:TocLink\endcsname{1}{x1-1300017}{}{\ignorespaces Hierarchical inheritance}}{figure}\relax 
+\doTocEntry\tocsection{3.7}{\csname a:TocLink\endcsname{1}{x1-1310003.7}{QQ2-1-161}{C++ Polymorphism}}{227}\relax 
+\doTocEntry\tocsubsection{3.7.1}{\csname a:TocLink\endcsname{1}{x1-1320003.7.1}{QQ2-1-162}{Differences b/w compile time and run time polymorphism.}}{228}\relax 
+\doTocEntry\toclot{3.2}{\csname a:TocLink\endcsname{1}{x1-1320012}{}{\ignorespaces Differences between compile time and runtime polymorphisms}}{table}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1330003.7.1}{QQ2-1-164}{C++ Runtime Polymorphism Example}}{231}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1340003.7.1}{QQ2-1-165}{C++ Run time Polymorphism Example: By using two derived class}}{232}\relax 
+\doTocEntry\tocsubsection{3.7.2}{\csname a:TocLink\endcsname{1}{x1-1350003.7.2}{QQ2-1-166}{Runtime Polymorphism with Data Members}}{233}\relax 
+\doTocEntry\tocchapter{4}{\csname a:TocLink\endcsname{1}{x1-1360004}{QQ2-1-167}{File Handling}}{235}\relax 
+\doTocEntry\tocsection{4.1}{\csname a:TocLink\endcsname{1}{x1-1370004.1}{QQ2-1-168}{What is file handling in C++?}}{235}\relax 
+\doTocEntry\tocsection{4.2}{\csname a:TocLink\endcsname{1}{x1-1380004.2}{QQ2-1-169}{The \texttt  {fstream} Library}}{235}\relax 
+\doTocEntry\tocsection{4.3}{\csname a:TocLink\endcsname{1}{x1-1390004.3}{QQ2-1-170}{How to Open Files}}{236}\relax 
+\doTocEntry\tocsubsection{4.3.1}{\csname a:TocLink\endcsname{1}{x1-1400004.3.1}{QQ2-1-171}{Example 1}}{240}\relax 
+\doTocEntry\tocsection{4.4}{\csname a:TocLink\endcsname{1}{x1-1410004.4}{QQ2-1-172}{How to Close Files}}{240}\relax 
+\doTocEntry\tocsection{4.5}{\csname a:TocLink\endcsname{1}{x1-1420004.5}{QQ2-1-173}{Write to Files}}{241}\relax 
+\doTocEntry\tocsubsection{4.5.1}{\csname a:TocLink\endcsname{1}{x1-1430004.5.1}{QQ2-1-174}{Example 2}}{241}\relax 
+\doTocEntry\tocsection{4.6}{\csname a:TocLink\endcsname{1}{x1-1440004.6}{QQ2-1-175}{Read from Files}}{242}\relax 
+\doTocEntry\tocsubsection{4.6.1}{\csname a:TocLink\endcsname{1}{x1-1450004.6.1}{QQ2-1-176}{Example 3}}{242}\relax 
+\doTocEntry\tocchapter{5}{\csname a:TocLink\endcsname{1}{x1-1460005}{QQ2-1-177}{Exception Handling}}{243}\relax 
+\doTocEntry\tocsection{5.1}{\csname a:TocLink\endcsname{1}{x1-1470005.1}{QQ2-1-178}{C++ Exception Classes}}{243}\relax 
+\doTocEntry\tocsubsection{5.1.1}{\csname a:TocLink\endcsname{1}{x1-1480005.1.1}{QQ2-1-179}{Accessing Elements of Union}}{243}\relax 
+\doTocEntry\toclof{5.1}{\csname a:TocLink\endcsname{1}{x1-1480011}{}{\ignorespaces Errors and Exceptions}}{figure}\relax 
+\doTocEntry\tocsubsection{5.1.2}{\csname a:TocLink\endcsname{1}{x1-1490005.1.2}{QQ2-1-181}{C++ Exception Handling Keywords}}{249}\relax 
+\doTocEntry\tocsection{5.2}{\csname a:TocLink\endcsname{1}{x1-1500005.2}{QQ2-1-182}{C++ try/catch}}{249}\relax 
+\doTocEntry\tocsubsection{5.2.1}{\csname a:TocLink\endcsname{1}{x1-1510005.2.1}{QQ2-1-183}{C++ example without try/catch}}{250}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-1520005.2.1}{QQ2-1-184}{C++ try/catch example}}{251}\relax 
+\doTocEntry\tocsection{5.3}{\csname a:TocLink\endcsname{1}{x1-1530005.3}{QQ2-1-185}{C++ User-Defined Exceptions}}{252}\relax 
+\doTocEntry\tocsubsection{5.3.1}{\csname a:TocLink\endcsname{1}{x1-1540005.3.1}{QQ2-1-186}{C++ user-defined exception example}}{252}\relax 
+\doTocEntry\tocsection{5.4}{\csname a:TocLink\endcsname{1}{x1-1550005.4}{QQ2-1-187}{Built-in Exceptions}}{254}\relax 
+\doTocEntry\tocsubsection{5.4.1}{\csname a:TocLink\endcsname{1}{x1-1560005.4.1}{QQ2-1-188}{\texttt  {bad\_alloc} exception}}{254}\relax 
+\doTocEntry\tocsubsection{5.4.2}{\csname a:TocLink\endcsname{1}{x1-1570005.4.2}{QQ2-1-189}{\texttt  {bad\_cast} exception}}{256}\relax 
+\doTocEntry\tocsubsection{5.4.3}{\csname a:TocLink\endcsname{1}{x1-1580005.4.3}{QQ2-1-190}{\texttt  {bad\_typeid} exception}}{260}\relax 
+\doTocEntry\tocsubsection{5.4.4}{\csname a:TocLink\endcsname{1}{x1-1590005.4.4}{QQ2-1-191}{\texttt  {bad\_exception} exception}}{264}\relax 
+\doTocEntry\tocsubsection{5.4.5}{\csname a:TocLink\endcsname{1}{x1-1600005.4.5}{QQ2-1-192}{\texttt  {logic\_error} exception}}{268}\relax 
+\doTocEntry\tocsection{5.5}{\csname a:TocLink\endcsname{1}{x1-1610005.5}{QQ2-1-193}{Runtime error}}{269}\relax 
+\doTocEntry\tocsubsection{5.5.1}{\csname a:TocLink\endcsname{1}{x1-1620005.5.1}{QQ2-1-194}{Invalid memory access}}{270}\relax 
+\doTocEntry\tocsubsection{5.5.2}{\csname a:TocLink\endcsname{1}{x1-1630005.5.2}{QQ2-1-195}{Array runs out of bound}}{271}\relax 
+\doTocEntry\tocsubsection{5.5.3}{\csname a:TocLink\endcsname{1}{x1-1640005.5.3}{QQ2-1-196}{Unassigned variables}}{271}\relax 

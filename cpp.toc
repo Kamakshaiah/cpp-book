@@ -1,0 +1,161 @@
+\contentsline {chapter}{\numberline {1}Introduction}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}C vs. C++}{12}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}What is C?}{12}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}What is C++?}{13}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}C++ history}{15}{section.1.2}%
+\contentsline {section}{\numberline {1.3}C++ Features}{15}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Installation}{17}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Eclipse for C++}{17}{subsection.1.4.1}%
+\contentsline {subsubsection}{Install MinGW GCC or Cygwin GCC}{18}{section*.4}%
+\contentsline {subsubsection}{Install Eclipse C/C++ Development Tool (CDT)}{18}{section*.5}%
+\contentsline {subsection}{\numberline {1.4.2}Creating C++ project}{19}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}C++ Program from terminal}{19}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Object code}{21}{subsection.1.5.1}%
+\contentsline {section}{\numberline {1.6}Eclipse for C++ development}{23}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Basic Input/Output}{23}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}I/O Library Header Files}{23}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}Standard output stream (\texttt {cout})}{25}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}Standard input stream (\texttt {cin})}{25}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}Standard end line (\texttt {endl})}{26}{subsection.1.7.4}%
+\contentsline {section}{\numberline {1.8}Identifiers and Keywords}{26}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}Identifiers}{26}{subsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.8.2}Naming rules}{27}{subsection.1.8.2}%
+\contentsline {subsection}{\numberline {1.8.3}Keywords}{28}{subsection.1.8.3}%
+\contentsline {section}{\numberline {1.9}Data Types}{28}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}Basic Data Types}{31}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}Datatype Modifiers}{32}{subsection.1.9.2}%
+\contentsline {section}{\numberline {1.10}C++ Variables, Literals and Constants}{35}{section.1.10}%
+\contentsline {subsection}{\numberline {1.10.1}C++ Variables}{35}{subsection.1.10.1}%
+\contentsline {subsection}{\numberline {1.10.2}Rules for naming a variable}{35}{subsection.1.10.2}%
+\contentsline {subsection}{\numberline {1.10.3}C++ Literals}{35}{subsection.1.10.3}%
+\contentsline {subsection}{\numberline {1.10.4}C++ Constants}{36}{subsection.1.10.4}%
+\contentsline {section}{\numberline {1.11}Operators and Expressions}{37}{section.1.11}%
+\contentsline {subsection}{\numberline {1.11.1}Operators}{38}{subsection.1.11.1}%
+\contentsline {subsubsection}{Arithmetic Operators}{38}{section*.6}%
+\contentsline {subsubsection}{Relational Operators}{38}{section*.7}%
+\contentsline {subsubsection}{Logical operators}{39}{section*.8}%
+\contentsline {subsubsection}{Bitwise Operators}{39}{section*.9}%
+\contentsline {subsubsection}{Assignment Operators}{40}{section*.10}%
+\contentsline {subsubsection}{Misc Operators}{40}{section*.11}%
+\contentsline {subsubsection}{Operators Precedence in C++}{42}{section*.12}%
+\contentsline {subsection}{\numberline {1.11.2}C++ Expression}{42}{subsection.1.11.2}%
+\contentsline {subsubsection}{Constant expressions}{43}{section*.13}%
+\contentsline {subsubsection}{Integral Expressions}{45}{section*.14}%
+\contentsline {subsubsection}{Float Expressions}{46}{section*.15}%
+\contentsline {subsubsection}{Pointer Expressions}{47}{section*.16}%
+\contentsline {subsubsection}{Relational Expressions}{48}{section*.17}%
+\contentsline {subsubsection}{Logical Expressions}{49}{section*.18}%
+\contentsline {subsubsection}{Bitwise Expressions}{49}{section*.19}%
+\contentsline {subsubsection}{Special Assignment Expressions}{51}{section*.20}%
+\contentsline {subsubsection}{Embedded Assignment Expression}{52}{section*.21}%
+\contentsline {subsubsection}{Compound Assignment}{52}{section*.22}%
+\contentsline {chapter}{\numberline {2}Functional programming}{55}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Conditional statements}{55}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}C++ IF Statement}{55}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}C++ IF-else Statement}{56}{subsection.2.1.2}%
+\contentsline {subsubsection}{C++ If-else Example: with input from user}{57}{section*.23}%
+\contentsline {subsection}{\numberline {2.1.3}C++ IF-else-if ladder Statement}{57}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}C++ Switch}{59}{section.2.2}%
+\contentsline {section}{\numberline {2.3}C++ For Loop}{60}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}C++ Nested For Loop}{60}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}C++ Infinite For Loop}{61}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}C++ While loop}{61}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}C++ Nested While Loop Example}{62}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}C++ Infinitive While Loop}{63}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}C++ Do-While Loop}{63}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}C++ Nested do-while Loop}{64}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}C++ Infinitive do-while Loop}{65}{subsection.2.4.5}%
+\contentsline {section}{\numberline {2.5}C++ Break \& Continue Statement}{65}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}C++ Break Statement with Inner Loop}{66}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}C++ Continue Statement}{66}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}C++ Continue Statement with Inner Loop}{67}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}C++ Goto Statement}{68}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2.6}Arrays}{69}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Advantages of C++ Array}{69}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}C++ Array Types}{69}{subsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.6.3}One Dimensional Array}{70}{subsection.2.6.3}%
+\contentsline {section}{\numberline {2.7}Multidimensional arrays}{70}{section.2.7}%
+\contentsline {subsubsection}{Declaration and initialization at same time}{71}{section*.24}%
+\contentsline {section}{\numberline {2.8}Functions in C/C++}{71}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Why do we need functions?}{72}{subsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.8.2}Function Declaration}{73}{subsection.2.8.2}%
+\contentsline {subsection}{\numberline {2.8.3}Return From Void Functions}{73}{subsection.2.8.3}%
+\contentsline {subsection}{\numberline {2.8.4}Parameter Passing to functions}{75}{subsection.2.8.4}%
+\contentsline {section}{\numberline {2.9}Pointers}{77}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Advantage of pointer}{77}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}Usage of pointer}{78}{subsection.2.9.2}%
+\contentsline {subsection}{\numberline {2.9.3}Symbols used in pointer}{78}{subsection.2.9.3}%
+\contentsline {subsection}{\numberline {2.9.4}Declaring a pointer}{79}{subsection.2.9.4}%
+\contentsline {subsection}{\numberline {2.9.5}Pointer Example}{79}{subsection.2.9.5}%
+\contentsline {subsection}{\numberline {2.9.6}Pointer Expressions and Pointer Arithmetic}{80}{subsection.2.9.6}%
+\contentsline {subsection}{\numberline {2.9.7}References and Pointers}{81}{subsection.2.9.7}%
+\contentsline {chapter}{\numberline {3}C++ OOPs Concepts}{85}{chapter.3}%
+\contentsline {subsection}{\numberline {3.0.1}OOPs (Object Oriented Programming System)}{85}{subsection.3.0.1}%
+\contentsline {subsubsection}{Object}{86}{section*.25}%
+\contentsline {subsubsection}{Class}{86}{section*.26}%
+\contentsline {subsubsection}{Inheritance}{86}{section*.27}%
+\contentsline {subsubsection}{Polymorphism}{86}{section*.28}%
+\contentsline {subsubsection}{Abstraction}{86}{section*.29}%
+\contentsline {subsubsection}{Encapsulation}{86}{section*.30}%
+\contentsline {subsection}{\numberline {3.0.2}Advantage of OOPs over Procedure-oriented programming language}{86}{subsection.3.0.2}%
+\contentsline {section}{\numberline {3.1}C++ Object and Class}{87}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}C++ Class}{87}{subsection.3.1.1}%
+\contentsline {subsubsection}{C++ Object and Class Example}{88}{section*.31}%
+\contentsline {subsection}{\numberline {3.1.2}C++ Class Example: Initialize and Display data through method}{88}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}C++ Class Example: Store and Display Employee Information}{89}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}C++ Constructor}{90}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}C++ Default Constructor}{90}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}C++ Parameterized Constructor}{91}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}C++ Destructor}{91}{section.3.3}%
+\contentsline {subsubsection}{C++ Constructor and Destructor Example}{92}{section*.32}%
+\contentsline {subsubsection}{Destructor example: string operations}{92}{section*.33}%
+\contentsline {section}{\numberline {3.4}C++ this Pointer}{93}{section.3.4}%
+\contentsline {subsubsection}{C++ this Pointer Example}{93}{section*.34}%
+\contentsline {section}{\numberline {3.5}C++ static}{94}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}C++ Static Field}{94}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.6}C++ Inheritance}{96}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Types Of Inheritance}{96}{subsection.3.6.1}%
+\contentsline {subsubsection}{Derived Classes}{97}{section*.35}%
+\contentsline {subsection}{\numberline {3.6.2}C++ Single Inheritance}{98}{subsection.3.6.2}%
+\contentsline {subsubsection}{C++ Single Level Inheritance Example: Inheriting Fields}{98}{section*.36}%
+\contentsline {subsubsection}{C++ Single Level Inheritance Example: Inheriting Methods}{99}{section*.37}%
+\contentsline {subsubsection}{How to make a Private Member Inheritable}{100}{section*.38}%
+\contentsline {subsection}{\numberline {3.6.3}C++ Multilevel Inheritance}{101}{subsection.3.6.3}%
+\contentsline {subsubsection}{C++ Multi Level Inheritance Example}{101}{section*.39}%
+\contentsline {subsection}{\numberline {3.6.4}Ambiquity Resolution in Inheritance}{103}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3.6.5}C++ Hybrid Inheritance}{105}{subsection.3.6.5}%
+\contentsline {subsection}{\numberline {3.6.6}C++ Hierarchical Inheritance}{107}{subsection.3.6.6}%
+\contentsline {section}{\numberline {3.7}C++ Polymorphism}{109}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Differences b/w compile time and run time polymorphism.}{110}{subsection.3.7.1}%
+\contentsline {subsubsection}{C++ Runtime Polymorphism Example}{110}{section*.40}%
+\contentsline {subsubsection}{C++ Run time Polymorphism Example: By using two derived class}{111}{section*.41}%
+\contentsline {subsection}{\numberline {3.7.2}Runtime Polymorphism with Data Members}{113}{subsection.3.7.2}%
+\contentsline {chapter}{\numberline {4}File Handling}{119}{chapter.4}%
+\contentsline {section}{\numberline {4.1}What is file handling in C++?}{119}{section.4.1}%
+\contentsline {section}{\numberline {4.2}The \texttt {fstream} Library}{119}{section.4.2}%
+\contentsline {section}{\numberline {4.3}How to Open Files}{120}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Example 1}{120}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4.4}How to Close Files}{121}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Write to Files}{121}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Example 2}{121}{subsection.4.5.1}%
+\contentsline {section}{\numberline {4.6}Read from Files}{122}{section.4.6}%
+\contentsline {subsection}{\numberline {4.6.1}Example 3}{122}{subsection.4.6.1}%
+\contentsline {chapter}{\numberline {5}Exception Handling}{125}{chapter.5}%
+\contentsline {section}{\numberline {5.1}C++ Exception Classes}{125}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Accessing Elements of Union}{125}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}C++ Exception Handling Keywords}{126}{subsection.5.1.2}%
+\contentsline {section}{\numberline {5.2}C++ try/catch}{127}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}C++ example without try/catch}{127}{subsection.5.2.1}%
+\contentsline {subsubsection}{C++ try/catch example}{127}{section*.42}%
+\contentsline {section}{\numberline {5.3}C++ User-Defined Exceptions}{128}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}C++ user-defined exception example}{128}{subsection.5.3.1}%
+\contentsline {section}{\numberline {5.4}Built-in Exceptions}{129}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}\texttt {bad\_alloc} exception}{129}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}\texttt {bad\_cast} exception}{130}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}\texttt {bad\_typeid} exception}{132}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}\texttt {bad\_exception} exception}{134}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.4.5}\texttt {logic\_error} exception}{136}{subsection.5.4.5}%
+\contentsline {section}{\numberline {5.5}Runtime error}{137}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Invalid memory access}{137}{subsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.5.2}Array runs out of bound}{138}{subsection.5.5.2}%
+\contentsline {subsection}{\numberline {5.5.3}Unassigned variables}{138}{subsection.5.5.3}%
